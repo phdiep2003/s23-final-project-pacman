@@ -1,6 +1,6 @@
 # s23-final-project-pacman
 
-This project is the first programming project I have ever done at CMU. I will release another version of it anytime soon.
+This project is the first programming project I have ever done at CMU 15-112. I will release another version of it anytime soon.
 
 To run, navigate to TP3v2.py. Make sure to install tk (instructed below)
 
